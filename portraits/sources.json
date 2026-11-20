@@ -1,0 +1,148 @@
+[
+  {
+    "id": "bernoulli",
+    "file": "public/portraits/bernoulli.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Unknown Edited by Bammesk",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "rutherford",
+    "file": "public/portraits/rutherford.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Bain News Service, publisher Restored by: Bammesk",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "newton",
+    "file": "public/portraits/newton.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton%2C_1689_(brightened).jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Godfrey Kneller",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "foucault",
+    "file": "public/portraits/foucault.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Foucault_portre_crop.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Bertall & Cie. Fizped",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "hooke",
+    "file": "public/portraits/hooke.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:13_Portrait_of_Robert_Hooke.JPG",
+    "license": "http://artlibre.org/licence/lal/en",
+    "artist": "Rita Greer (2004)",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS.",
+    "note": "Imagined posthumous portrait, not a verified likeness."
+  },
+  {
+    "id": "coulomb",
+    "file": "public/portraits/coulomb.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Charles_de_Coulomb.png",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Louis Hierle",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "snell",
+    "file": "public/portraits/snell.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Willebrord_Snellius.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "dvali",
+    "file": "public/portraits/dvali.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DZOpQ44X4AM8m_t.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "David W Hogg",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "lagrange",
+    "file": "public/portraits/lagrange.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lagrange_crop.jpg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Unknown",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "pascal",
+    "file": "public/portraits/pascal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles%2C_circa_1690.JPG",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown, after François II Quesnel",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "archimedes",
+    "file": "public/portraits/archimedes.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Archimedes_(Idealportrait).jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS.",
+    "note": "Imagined posthumous portrait, not a verified likeness."
+  },
+  {
+    "id": "doppler",
+    "file": "public/portraits/doppler.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Christian_Doppler.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "andronikashvili",
+    "file": "public/portraits/andronikashvili.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Elephter_Andronikashvili_1986.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "დევი ღარიბაშვილი",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "kepler",
+    "file": "public/portraits/kepler.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "August Köhler",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "higgs",
+    "file": "public/portraits/higgs.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_24_2013_(cropped).jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0",
+    "artist": "Bengt Nyman",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "lorentz",
+    "file": "public/portraits/lorentz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hendrik_Antoon_Lorentz.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown / Museum Boerhaave",
+    "modifications": "Resized for offline topic cards; grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "schrodinger",
+    "file": "public/portraits/schrodinger.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_(1933).jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Nobel Foundation (1933)",
+    "modifications": "Unchanged (280 × 396 px); grayscale and cropping applied by CSS."
+  },
+  {
+    "id": "ohm",
+    "file": "public/portraits/ohm.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Georg_Simon_Ohm3.jpg",
+    "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+    "artist": "Unknown (black-and-white print, 1898–1901, of a painted portrait)",
+    "modifications": "Resized to 330 px wide by Wikimedia Commons; grayscale and cropping applied by CSS."
+  }
+]

@@ -1,0 +1,1 @@
+function u(n){n.seed=n.seed+1831565813|0;let e=Math.imul(n.seed^n.seed>>>15,1|n.seed);return e=e+Math.imul(e^e>>>7,61|e)^e,((e^e>>>14)>>>0)/4294967296}function o(n){let e={seed:n|0};return()=>u(e)}function m(n){return o(Math.floor(n)*2654435761+2654435769)}function t(n,e=0){let r=Math.sin(n*12.9898+e*78.233)*43758.5453;return r-Math.floor(r)}export{u as a,o as b,m as c,t as d};

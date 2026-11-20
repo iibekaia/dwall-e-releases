@@ -1,0 +1,1 @@
+import{F as n}from"./chunk-DYJJPF43.js";var e=class t{pending=null;offer(i){this.pending=i}take(){let i=this.pending;return this.pending=null,i}static \u0275fac=function(r){return new(r||t)};static \u0275prov=n({token:t,factory:t.\u0275fac,providedIn:"root"})};export{e as a};

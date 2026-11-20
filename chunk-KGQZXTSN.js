@@ -1,0 +1,1 @@
+var n=(r=>(r.Guest="guest",r.Researcher="researcher",r))(n||{}),s=["guest","researcher"];var d=(e=>(e.Ready="ready",e.Running="running",e.Paused="paused",e.Finished="finished",e))(d||{});export{n as a,s as b,d as c};
